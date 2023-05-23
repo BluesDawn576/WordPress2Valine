@@ -1,6 +1,6 @@
 # WordPress2Valine
 
-简体中文 | [English](https://github.com/BluesDawn576/WordPress2Valine/blob/main/README.md)
+简体中文 | [English](https://github.com/BluesDawn576/WordPress2Valine/blob/master/README.md)
 
 非 WordPress 插件
 

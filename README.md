@@ -1,6 +1,6 @@
 # WordPress2Valine
 
-[简体中文](https://github.com/BluesDawn576/WordPress2Valine/blob/main/README_CN.md) | English
+[简体中文](https://github.com/BluesDawn576/WordPress2Valine/blob/master/README_CN.md) | English
 
 This is NOT a WordPress plugin.
 
