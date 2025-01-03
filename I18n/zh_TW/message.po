@@ -2,13 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WordPress2Valine\n"
 "POT-Creation-Date: 2023-05-23 14:29+0800\n"
-"PO-Revision-Date: 2025-01-03 11:33+0800\n"
+"PO-Revision-Date: 2025-01-03 11:45+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: en_US\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.3.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: GetDic\n"
@@ -17,37 +18,37 @@ msgstr ""
 
 #: Program.cs:18
 msgid "打开WordPress评论数据(.json)"
-msgstr "Open WordPress comment file (.json)"
+msgstr "打開 WordPress 評論檔案 (.json)"
 
 #: Program.cs:23
 msgid "输入要替换的文章/页面id"
-msgstr "Please enter the article/page id you want to replace"
+msgstr "輸入要替換的文章/頁面 ID"
 
 #: Program.cs:24
 msgid "例如 42,friend (不要添加\"/\")"
-msgstr "Example: 42,friend (Don't add \"/\")"
+msgstr "例如 42,friend (不要添加\"/\")"
 
 #: Program.cs:25
 msgid "输入 end 结束"
-msgstr "Type \"end\" to finish the process"
+msgstr "輸入 \"end\" 結束"
 
 #: Program.cs:28
 msgid "替换："
-msgstr "The value to replace: "
+msgstr "替換："
 
 #: Program.cs:34
 #, csharp-format
 msgid "已替换 {0}"
-msgstr "Replaced {0}"
+msgstr "已替換 {0}"
 
 #: Program.cs:41
 msgid "转换完成"
-msgstr "Completed"
+msgstr "轉換完成"
 
 #: Program.cs:46
 msgid "转换失败"
-msgstr "Failed to convert"
+msgstr "轉換失敗"
 
 #: Program.cs:48
 msgid "请按任意键退出..."
-msgstr "Please press any key to exit..."
+msgstr "請按任意鍵退出..."

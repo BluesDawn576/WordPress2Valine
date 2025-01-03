@@ -12,6 +12,9 @@ namespace WordPress2Valine.Common
             {
                 case "zh-CN":
                     return new CultureInfo("zh-CN");
+                case "zh-TW":
+                case "zh-HK":
+                    return new CultureInfo("zh-TW");
                 default:
                     return new CultureInfo("en-US");
             }
