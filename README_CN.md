@@ -4,6 +4,12 @@
 
 非 WordPress 插件
 
+## ⚠️关于 LeanCloud 停止对外提供服务的通知
+
+[https://docs.leancloud.app/sdk/announcements/sunset-announcement/](https://docs.leancloud.app/sdk/announcements/sunset-announcement/)
+
+以下导入 LeanCloud 的方法已不再适用
+
 ## 使用方法
 
 ### 通过 phpmyadmin 或其他软件导出表 `wp_comments` 为 `json`
