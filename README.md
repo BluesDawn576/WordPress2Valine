@@ -4,6 +4,14 @@
 
 This is NOT a WordPress plugin.
 
+## ⚠️关于 LeanCloud 停止对外提供服务的通知
+
+Notice on LeanCloud Discontinuing External Services
+
+[https://docs.leancloud.app/en/sdk/announcements/sunset-announcement/](https://docs.leancloud.app/en/sdk/announcements/sunset-announcement/)
+
+The method of importing comment data into LeanCloud is no longer applicable.
+
 ## How to use
 
 ### Export the `wp_comments` table as `json` using phpmyadmin or other software
